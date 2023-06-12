@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "nostr-fetch": "npm:nostr-fetch@^0.8.0",
+    "nostr-tools": "npm:nostr-tools@1.12.0"
+  }
+}
